@@ -2,7 +2,9 @@
 
 [![CivicFix AI Banner](assets/civicfix_logo_banner.png)](assets/civicfix_logo_banner.png)
 
-**CivicFix AI** is an AI-powered Progressive Web App that transforms how communities identify, report, validate, track, and resolve civic infrastructure issues. By combining Google's Gemini Vision, Gemma 4, and Google Maps with an Antigravity backend deployed on Google Cloud Run, CivicFix creates a transparent, gamified, and intelligent bridge between citizens and government authorities.
+**CivicFix AI** is an AI-powered Progressive Web App that transforms how communities identify, report, validate, track, and resolve civic infrastructure issues.
+
+> **Live Demo:** [https://civic-fix-ten.vercel.app](https://civic-fix-ten.vercel.app) By combining Google's Gemini Vision, Gemma 4, and Google Maps with an Antigravity backend deployed on Google Cloud Run, CivicFix creates a transparent, gamified, and intelligent bridge between citizens and government authorities.
 
 The platform operates across three user roles — Citizens, Government Authorities, and Admins — with each role experiencing a purpose-built interface that makes civic participation effortless and resolution accountable.
 
