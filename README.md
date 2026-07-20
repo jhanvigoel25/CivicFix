@@ -150,7 +150,7 @@ flowchart TD
 ### Step 1 — Clone & enter the project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CivicFix-AI.git
+git clone https://github.com/jhanvigoel25/CivicFix-AI.git
 cd CivicFix-AI
 ```
 
